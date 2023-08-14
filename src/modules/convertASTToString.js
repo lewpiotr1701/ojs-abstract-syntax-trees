@@ -1,6 +1,6 @@
 function convertASTToString(input) {
   checkInput(input);
-  return 'dupa'
+  return 'blabla'
 }
 
 function checkInput(input) {
