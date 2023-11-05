@@ -23,3 +23,9 @@ npm run start
 ```sh
 npm run build
 ```
+
+### Upload to GitHub Pages
+
+```sh
+npm run deploy
+```
